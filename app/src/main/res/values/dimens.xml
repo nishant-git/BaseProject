@@ -1,0 +1,58 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="small_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="tab_view_height">48dp</dimen>
+
+    <dimen name="loading_progress_bar_size">64dp</dimen>
+
+    <dimen name="drawer_profile_photo_size">64dp</dimen>
+    <dimen name="profile_profile_photo_size">115dp</dimen>
+    <dimen name="drawer_profile_photo_margin">4dp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="medium_text">14sp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="extra_large_text">18sp</dimen>
+    <dimen name="huge_text">20sp</dimen>
+    <dimen name="extra_huge_text">22sp</dimen>
+    <dimen name="mini_margin">4dp</dimen>
+
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_high">16dp</dimen>
+    <dimen name="margin_large">22dp</dimen>
+    <dimen name="margin_double_high">32dp</dimen>
+    <dimen name="margin_extra_double_high">75dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="margin_attendance_child_item">48dp</dimen>
+
+    <dimen name="margin_filter">2dp</dimen>
+    <dimen name="message_item_corner_radius">10dp</dimen>
+    <dimen name="message_item_drop_shadow_dist">1.5dp</dimen>
+
+    <!-- The letter size in LetterTileImage -->
+    <dimen name="tile_letter_font_size">42px</dimen>
+    <dimen name="tile_two_letters_font_size">30px</dimen>
+
+    <dimen name="viewpager_indicator_size_dp">40dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="button_width_small">80dp</dimen>
+    <dimen name="button_height_small">36dp</dimen>
+
+    <dimen name="icon_contact_huge">50dp</dimen>
+    <dimen name="icon_contact_big">40dp</dimen>
+    <dimen name="icon_contact_medium">35dp</dimen>
+    <dimen name="icon_contact_small">30dp</dimen>
+
+    <dimen name="drawer_background_height">160dp</dimen>
+    <dimen name="profile_screen_photo_height">85dp</dimen>
+    <dimen name="profile_screen_photo_width">85dp</dimen>
+    <dimen name="profile_screen_photo_background_height">131dp</dimen>
+    <dimen name="profile_screen_photo_background_width">110dp</dimen>
+
+    <dimen name="material_icon_size">25dp</dimen>
+</resources>
